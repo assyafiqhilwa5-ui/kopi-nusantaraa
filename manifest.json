@@ -1,0 +1,16 @@
+{
+  "name": "Kopi Nusantara — Seduhan Jiwa",
+  "short_name": "KopiNus",
+  "description": "Kedai kopi specialty di jantung Kota Padang",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f0a06",
+  "theme_color": "#d4a053",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
